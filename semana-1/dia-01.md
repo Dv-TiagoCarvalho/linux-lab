@@ -93,7 +93,7 @@ O `x` indica que a senha fica em `/etc/shadow`.
 - **Causa:** faltou o `@` entre usuário e endereço, e o IP usado era o do Mac (`192.168.64.1`), não o da VM.
 - **Correção:** descobrir o IP da VM com `hostname -I` (rodado na VM) e usar o formato `ssh usuario@IP`.
 
-## Falta fazer na semana 1
+## Pendências da semana 1
 
-- Praticar `man` e `--help` para achar opções sozinho.
+- Praticar `man` e `--help` para achar opções sozinho: feito em 09/10 (ver [dia 2](../semana-2/dia-02.md)).
 - Repetir os comandos deste dia sem consultar as anotações.

@@ -17,7 +17,7 @@ Laboratório de estudos de administração de servidores Linux. É um ambiente d
 | Semana | Tema | Situação |
 |---|---|---|
 | 1 | VM, terminal e SSH | Concluída em 08/10 |
-| 2 | Usuários, permissões, processos e serviços | A fazer |
+| 2 | Usuários, permissões, processos e serviços | Concluída em 09/10 |
 | 3 | Discos, LVM, rede e firewall | A fazer |
 | 4 | Logs, troubleshooting e causa raiz | A fazer |
 | 5 | Backup, patches e hardening | A fazer |
@@ -28,3 +28,4 @@ Laboratório de estudos de administração de servidores Linux. É um ambiente d
 Uma pasta por semana e um arquivo por dia de estudo. Cada problema encontrado é registrado em três linhas: **sintoma**, **causa** e **correção**.
 
 - [Semana 1, dia 1](semana-1/dia-01.md): instalação, primeiros comandos e SSH
+- [Semana 2, dia 2](semana-2/dia-02.md): usuários, permissões, processos e nginx
