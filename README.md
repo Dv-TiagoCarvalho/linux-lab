@@ -16,7 +16,7 @@ Laboratório de estudos de administração de servidores Linux. É um ambiente d
 
 | Semana | Tema | Situação |
 |---|---|---|
-| 1 | VM, terminal e SSH | Em andamento |
+| 1 | VM, terminal e SSH | Concluída em 08/10 |
 | 2 | Usuários, permissões, processos e serviços | A fazer |
 | 3 | Discos, LVM, rede e firewall | A fazer |
 | 4 | Logs, troubleshooting e causa raiz | A fazer |
